@@ -9,7 +9,7 @@ body{
     font-size: 12px;
     height: 150vh;
     overflow-x: hidden;
-    
+    width: auto;
    
 }
 #background{
